@@ -1,5 +1,5 @@
 {
-    "name": "9gag/fpm-health-check",
+    "name": "emptyset/fpm-health-check",
     "description": "CLI command for FPM health-check",
     "authors": [
         {
